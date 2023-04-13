@@ -3,3 +3,6 @@ test case title some title
 StP 1.2.3.
 
 test case2
+StP
+preconditions
+priority
