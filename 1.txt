@@ -6,3 +6,4 @@ test case2
 StP
 preconditions
 priority
+test case 3
